@@ -12,3 +12,6 @@ Some other files are provided for references.
 ## License
 These models may be covered by design patents held by Yamaha.
 However, I expect any such patents should be expired quite a long time ago.
+
+## External Links
+http://usa.yamaha.com/products/audio-visual/speaker-systems/home-speaker-systems/ystm15/
